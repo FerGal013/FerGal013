@@ -18,4 +18,13 @@
   <img src="Icons/sass.svg" class="icon" alt="Sass" title="Sass" height="50" width="50">
 </div>
 
+<h2 align="center">Sistemas de gestión de bases de datos | Database management systems</h2>
+
+<div align="center">
+  <img src="Icons/microsoft-access.svg" class="icon" alt="Microsoft Access" title="Microsoft Access" height="50" width="50">&nbsp;
+  <img src="Icons/microsoft-sql-server.svg" class="icon" alt="Microsoft SQL Server" title="Microsoft SQL Server" height="50" width="50"> &nbsp;
+  <img src="Icons/mariadb.svg" class="icon" alt="MariaDB" title="MariaDB" height="50" width="50">&nbsp;
+  <img src="Icons/mysql.svg" class="icon" alt="MySQL" title="MySQL" height="50" width="50">
+</div>
+
 <h3 align="center">“Any sufficiently advanced technology is indistinguishable from magic.” — Arthur C. Clarke</h3>
