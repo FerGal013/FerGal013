@@ -39,10 +39,10 @@
 <h2 align="center">Entornos de desarrollo integrados | Integrated development environment</h2>
 
 <div align="center">
-  <img src="Icons/apache-netbeans.svg" class="icon" alt="NetBeans" title="NetBeans" height="50" width="50">&nbsp;
   <img src="Icons/visual-studio-code.svg" class="icon" alt="Visual Studio Code" title="Visual Studio Code" height="50" width="50">&nbsp;
   <img src="Icons/visual-studio.svg" class="icon" alt="Visual Studio" title="Visual Studio" height="50" width="50"> &nbsp;
   <img src="Icons/eclipse.svg" class="icon" alt="Eclipse" title="Eclipse" height="50" width="50">&nbsp;
+  <img src="Icons/apache-netbeans.svg" class="icon" alt="NetBeans" title="NetBeans" height="50" width="50">&nbsp;
   <img src="Icons/pycharm.svg" class="icon" alt="PyCharm" title="PyCharm" height="50" width="50">&nbsp;
   <img src="Icons/intellij-idea.svg" class="icon" alt="Intellij IDEA" title="Intellij IDEA" height="50" width="50">
 </div>
