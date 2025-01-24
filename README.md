@@ -1,16 +1,17 @@
-## Hi there 👋
+<h2 align="center">Backend</h2>
 
-<!--
-**FerGal013/FerGal013** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <img src="Icons/csharp.svg" class="icon" alt="C#" title="C#" height="50" width="50">&nbsp;
+  <img src="Icons/java.svg" class="icon" alt="Java" title="Java" height="50" width="50">&nbsp;
+  <img src="Icons/php.svg" class="icon" alt="PHP" title="PHP" height="50" width="50">&nbsp;
+  <img src="Icons/python.svg" class="icon" alt="Python" title="Python" height="50" width="50">
+</div>
 
-Here are some ideas to get you started:
+<h2 align="center">Frontend</h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <img src="Icons/html.svg" class="icon" alt="HTML" title="HTML" height="50" width="50">&nbsp;
+  <img src="Icons/css.svg" class="icon" alt="CSS" title="CSS" height="50" width="50"> &nbsp;
+  <img src="Icons/javascript.svg" class="icon" alt="JavaScript" title="JavaScript" height="50" width="50">&nbsp;
+  <img src="Icons/sass.svg" class="icon" alt="Sass" title="Sass" height="50" width="50">
+</div>
