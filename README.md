@@ -30,7 +30,6 @@
 <h2 align="center">Sistemas operativos y distribuciones | Operating Systems and distributions</h2>
 
 <div align="center">
-  <img src="Icons/netbeans.svg" class="icon" alt="NetBeans" title="NetBeans" height="50" width="50">&nbsp;
   <img src="Icons/linux.svg" class="icon" alt="Linux" title="Linux" height="50" width="50">&nbsp;
   <img src="Icons/debian.svg" class="icon" alt="Debian" title="Debian" height="50" width="50"> &nbsp;
   <img src="Icons/ubuntu.svg" class="icon" alt="Ubuntu and Ubuntu Server" title="Ubuntu and Ubuntu Server" height="50" width="50">&nbsp;
@@ -40,6 +39,7 @@
 <h2 align="center">Entornos de desarrollo integrados | Integrated development environment</h2>
 
 <div align="center">
+  <img src="Icons/apache-netbeans.svg" class="icon" alt="NetBeans" title="NetBeans" height="50" width="50">&nbsp;
   <img src="Icons/visual-studio-code.svg" class="icon" alt="Visual Studio Code" title="Visual Studio Code" height="50" width="50">&nbsp;
   <img src="Icons/visual-studio.svg" class="icon" alt="Visual Studio" title="Visual Studio" height="50" width="50"> &nbsp;
   <img src="Icons/eclipse.svg" class="icon" alt="Eclipse" title="Eclipse" height="50" width="50">&nbsp;
