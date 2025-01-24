@@ -29,13 +29,15 @@
   <img src="Icons/mysql.svg" class="icon" alt="MySQL" title="MySQL" height="50" width="50">
 </div>
 
-<h2 align="center">Sistemas operativos y distribuciones | Operating Systems and distributions</h2>
+<h2 align="center">Sistemas operativos, distribuciones y herramientas | Operating Systems, distributions and tools</h2>
 
 <div align="center">
   <img src="Icons/linux.svg" class="icon" alt="Linux" title="Linux" height="50" width="50">&nbsp;
   <img src="Icons/debian.svg" class="icon" alt="Debian" title="Debian" height="50" width="50"> &nbsp;
   <img src="Icons/ubuntu.svg" class="icon" alt="Ubuntu and Ubuntu Server" title="Ubuntu and Ubuntu Server" height="50" width="50">&nbsp;
-  <img src="Icons/windows.svg" class="icon" alt="Windows and Windows Server" title="Windows and Windows Server" height="50" width="50">
+  <img src="Icons/windows.svg" class="icon" alt="Windows and Windows Server" title="Windows and Windows Server" height="50" width="50">&nbsp;
+  <img src="Icons/virtualbox.png" class="icon" alt="VirtualBox" title="VirtualBox" height="50" width="50">&nbsp;
+  <img src="Icons/putty.svg" class="icon" alt="PuTTY" title="PuTTY" height="50" width="50">
 </div>
 
 <h2 align="center">Entornos de desarrollo integrados | Integrated development environment</h2>
