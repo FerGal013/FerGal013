@@ -20,7 +20,7 @@
   <img src="Icons/sass.svg" class="icon" alt="Sass" title="Sass" height="50" width="50">
 </div>
 
-<h2 align="center">Sistemas de gestión de bases de datos | Database management systems</h2>
+<h2 align="center">Database management systems</h2>
 
 <div align="center">
   <img src="Icons/new-microsoft-access-logo.svg" class="icon" alt="Microsoft Access" title="Microsoft Access" height="50" width="50">&nbsp;
@@ -29,7 +29,7 @@
   <img src="Icons/mysql.svg" class="icon" alt="MySQL" title="MySQL" height="50" width="50">
 </div>
 
-<h2 align="center">Sistemas operativos, distribuciones y herramientas | Operating Systems, distributions and tools</h2>
+<h2 align="center">Operating Systems, distributions and tools</h2>
 
 <div align="center">
   <img src="Icons/linux.svg" class="icon" alt="Linux" title="Linux" height="50" width="50">&nbsp;
@@ -64,7 +64,7 @@
   <img src="Icons/filezilla.svg" class="icon" alt="FileZilla" title="FileZilla" height="50" width="50">
 </div>
 
-<h2 align="center">Aprendiendo | Learning</h2>
+<h2 align="center">Learning</h2>
 
 <div align="center">
   <img src="Icons/ruby.svg" class="icon" alt="Ruby" title="Ruby" height="50" width="50"> &nbsp;
