@@ -40,7 +40,7 @@
   <img src="Icons/putty.svg" class="icon" alt="PuTTY" title="PuTTY" height="50" width="50">
 </div>
 
-<h2 align="center">Entornos de desarrollo integrados | Integrated development environment</h2>
+<h2 align="center">Integrated development environments</h2>
 
 <div align="center">
   <img src="Icons/visual-studio-code.svg" class="icon" alt="Visual Studio Code" title="Visual Studio Code" height="50" width="50">&nbsp;
@@ -51,7 +51,7 @@
   <img src="Icons/intellij-idea.svg" class="icon" alt="Intellij IDEA" title="Intellij IDEA" height="50" width="50">
 </div>
 
-<h2 align="center">Servidores y herramientas | Servers and tools</h2>
+<h2 align="center">Servers and tools</h2>
 
 <div align="center">
   <img src="Icons/aws.svg" class="icon" alt="Amazon Web Services" title="Amazon Web Services" height="50" width="50"> &nbsp;
