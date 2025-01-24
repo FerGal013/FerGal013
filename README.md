@@ -47,4 +47,17 @@
   <img src="Icons/intellij-idea.svg" class="icon" alt="Intellij IDEA" title="Intellij IDEA" height="50" width="50">
 </div>
 
+<h2 align="center">Servidores y herramientas | Servers and tools</h2>
+
+<div align="center">
+  <img src="Icons/aws.svg" class="icon" alt="Amazon Web Services" title="Amazon Web Services" height="50" width="50"> &nbsp;
+  <img src="Icons/apache.svg" class="icon" alt="Apache" title="Apache" height="50" width="50">&nbsp;
+  <img src="Icons/xampp.svg" class="icon" alt="XAMPP" title="XAMPP" height="50" width="50"> &nbsp;
+  <img src="Icons/tomcat.svg" class="icon" alt="Tomcat" title="Tomcat" height="50" width="50">&nbsp;
+  <img src="Icons/git.svg" class="icon" alt="Git" title="Git" height="50" width="50">&nbsp;
+  <img src="Icons/github.svg" class="icon" alt="GitHub" title="GitHub" height="50" width="50">&nbsp;
+  <img src="Icons/postman.svg" class="icon" alt="Postman" title="Postman" height="50" width="50">&nbsp;
+  <img src="Icons/filezilla.svg" class="icon" alt="FileZilla" title="FileZilla" height="50" width="50">
+</div>
+
 <h3 align="center">“Any sufficiently advanced technology is indistinguishable from magic.” — Arthur C. Clarke</h3>
