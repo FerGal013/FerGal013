@@ -63,3 +63,10 @@
   <img src="Icons/postman.svg" class="icon" alt="Postman" title="Postman" height="50" width="50">&nbsp;
   <img src="Icons/filezilla.svg" class="icon" alt="FileZilla" title="FileZilla" height="50" width="50">
 </div>
+
+<h2 align="center">Aprendiendo | Learning</h2>
+
+<div align="center">
+  <img src="Icons/ruby.svg" class="icon" alt="Ruby" title="Ruby" height="50" width="50"> &nbsp;
+  <img src="Icons/kali-linux.svg" class="icon" alt="Kali Linux" title="Kali Linux" height="50" width="50">&nbsp;
+</div>
