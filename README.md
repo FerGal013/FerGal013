@@ -30,6 +30,7 @@
 <h2 align="center">Sistemas operativos y distribuciones | Operating Systems and distributions</h2>
 
 <div align="center">
+  <img src="Icons/netbeans.svg" class="icon" alt="NetBeans" title="NetBeans" height="50" width="50">&nbsp;
   <img src="Icons/linux.svg" class="icon" alt="Linux" title="Linux" height="50" width="50">&nbsp;
   <img src="Icons/debian.svg" class="icon" alt="Debian" title="Debian" height="50" width="50"> &nbsp;
   <img src="Icons/ubuntu.svg" class="icon" alt="Ubuntu and Ubuntu Server" title="Ubuntu and Ubuntu Server" height="50" width="50">&nbsp;
