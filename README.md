@@ -1,7 +1,5 @@
 <div align="center"><img src="Images/Banner.png"/></div>
 
-<h2 align="center">“Any sufficiently advanced technology is indistinguishable from magic.” — Arthur C. Clarke</h2>
-
 <h2 align="center">Backend</h2>
 
 <div align="center">
@@ -19,3 +17,5 @@
   <img src="Icons/javascript.svg" class="icon" alt="JavaScript" title="JavaScript" height="50" width="50">&nbsp;
   <img src="Icons/sass.svg" class="icon" alt="Sass" title="Sass" height="50" width="50">
 </div>
+
+<h3 align="center">“Any sufficiently advanced technology is indistinguishable from magic.” — Arthur C. Clarke</h3>
