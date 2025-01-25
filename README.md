@@ -1,5 +1,7 @@
 <div align="center"><img src="Images/Banner.png"/></div>
 
+<h3 align="center">“Any sufficiently advanced technology is indistinguishable from magic.” — Arthur C. Clarke</h3>
+
 <h2 align="center">Languages</h2>
 
 <div align="center">
