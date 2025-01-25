@@ -1,6 +1,6 @@
 <div align="center"><img src="Images/Banner.png"/></div>
 
-<h2 align="center">Back End</h2>
+<h2 align="center">Languages</h2>
 
 <div align="center">
   <img src="Images/Icons/Flags/spain.svg" class="icon" alt="Spanish" title="Spanish" height="50" width="50">&nbsp;
@@ -96,4 +96,12 @@
   <img src="Images/Icons/Other Technologies/kubernetes.svg" class="icon" alt="Kubernetes" title="Kubernetes" height="50" width="50">&nbsp;
   <img src="Images/Icons/Other Technologies/wordpress.svg" class="icon" alt="WordPress" title="WordPress" height="50" width="50"> &nbsp;
   <img src="Images/Icons/Other Technologies/office.svg" class="icon" alt="Microsoft Office" title="Microsoft Office" height="50" width="50">
+</div>
+
+<h2 align="center">Learning</h2>
+
+<div align="center">
+  <img src="Images/Icons/Flags/china.svg" class="icon" alt="Mandarin Chinese" title="Mandarin Chinese" height="50" width="50">&nbsp;
+  <img src="Images/Icons/Back End/ruby.svg" class="icon" alt="Ruby" title="Ruby" height="50" width="50">&nbsp;
+  <img src="Images/Icons/Operating systems/kali-linux.svg" class="icon" alt="Kali Linux" title="Kali Linux" height="50" width="50">
 </div>
