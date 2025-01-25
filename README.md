@@ -3,6 +3,13 @@
 <h2 align="center">Back End</h2>
 
 <div align="center">
+  <img src="Images/Icons/Flags/spain.svg" class="icon" alt="Spanish" title="Spanish" height="50" width="50">&nbsp;
+  <img src="Images/Icons/Flags/uk.svg" class="icon" alt="English" title="English" height="50" width="50">
+</div>
+
+<h2 align="center">Back End</h2>
+
+<div align="center">
   <img src="Images/Icons/Back End/csharp.svg" class="icon" alt="C#" title="C#" height="50" width="50">&nbsp;
   <img src="Images/Icons/Back End/java.svg" class="icon" alt="Java" title="Java" height="50" width="50">&nbsp;
   <img src="Images/Icons/Back End/python.svg" class="icon" alt="Python" title="Python" height="50" width="50">&nbsp;
@@ -88,5 +95,5 @@
   <img src="Images/Icons/Other Technologies/docker.svg" class="icon" alt="Docker" title="Docker" height="50" width="50">&nbsp;
   <img src="Images/Icons/Other Technologies/kubernetes.svg" class="icon" alt="Kubernetes" title="Kubernetes" height="50" width="50">&nbsp;
   <img src="Images/Icons/Other Technologies/wordpress.svg" class="icon" alt="WordPress" title="WordPress" height="50" width="50"> &nbsp;
-  <img src="Images/Icons/Other Technologies/office.svg" class="icon" alt="Microsoft Office" title="Microsoft Office" height="50" width="50">&nbsp;
+  <img src="Images/Icons/Other Technologies/office.svg" class="icon" alt="Microsoft Office" title="Microsoft Office" height="50" width="50">
 </div>
