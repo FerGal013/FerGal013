@@ -56,3 +56,17 @@
   <img src="Images/Icons/IDEs/pycharm.svg" class="icon" alt="PyCharm" title="PyCharm" height="50" width="50">&nbsp;
   <img src="Images/Icons/IDEs/intellij-idea.svg" class="icon" alt="Intellij IDEA" title="Intellij IDEA" height="50" width="50">
 </div>
+
+<h2 align="center">Servers and tools</h2>
+
+<div align="center">
+  <img src="Images/Icons/Servers/aws.svg" class="icon" alt="Amazon Web Services" title="Amazon Web Services" height="50" width="50"> &nbsp;
+  <img src="Images/Icons/Servers/nginx.svg" class="icon" alt="Nginx" title="Nginx" height="50" width="50"> &nbsp;
+  <img src="Images/Icons/Servers/xampp.svg" class="icon" alt="XAMPP" title="XAMPP" height="50" width="50"> &nbsp;
+  <img src="Images/Icons/Servers/apache.svg" class="icon" alt="Apache" title="Apache" height="50" width="50">&nbsp;
+  <img src="Images/Icons/Servers/tomcat.svg" class="icon" alt="Tomcat" title="Tomcat" height="50" width="50">&nbsp;
+  <img src="Images/Icons/Servers/git.svg" class="icon" alt="Git" title="Git" height="50" width="50">&nbsp;
+  <img src="Images/Icons/Servers/github.svg" class="icon" alt="GitHub" title="GitHub" height="50" width="50">&nbsp;
+  <img src="Images/Icons/Servers/postman.svg" class="icon" alt="Postman" title="Postman" height="50" width="50">&nbsp;
+  <img src="Images/Icons/Servers/filezilla.svg" class="icon" alt="FileZilla" title="FileZilla" height="50" width="50">
+</div>
