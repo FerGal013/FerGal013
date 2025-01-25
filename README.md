@@ -2,6 +2,11 @@
 
 <h3 align="center">“Any sufficiently advanced technology is indistinguishable from magic.” — Arthur C. Clarke</h3>
 
+<div align="center">
+  <a href="mailto:varogallego1998@gmail.com" target="_blank"><img src="Images/Icons/Contact/gmail.svg" width="50" height="50" alt="Email" title="Email"/></a>
+  <a href="https://www.linkedin.com/in/alvarofernandezgallego" target="_blank"><img src="Images/Icons/Contact/linkedin.svg" width="50" height="50" alt="LinkedIn" title="LinkedIn"/></a>
+</div>
+
 <h2 align="center">Languages</h2>
 
 <div align="center">
