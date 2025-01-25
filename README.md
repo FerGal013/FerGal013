@@ -112,3 +112,9 @@
   <img src="Images/Icons/Back End/ruby.svg" class="icon" alt="Ruby" title="Ruby" height="50" width="50">&nbsp;
   <img src="Images/Icons/Operating systems/kali-linux.svg" class="icon" alt="Kali Linux" title="Kali Linux" height="50" width="50">
 </div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MarinaMadrid&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="Languages Graphic"/>
+</div>
