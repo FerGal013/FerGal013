@@ -21,3 +21,12 @@
   <img src="Images/Icons/Front End/npm.svg" class="icon" alt="npm" title="npm" height="50" width="50">&nbsp;
   <img src="Images/Icons/Front End/ajax.svg" class="icon" alt="Ajax" title="Ajax" height="50" width="50">&nbsp;
 </div>
+
+<h2 align="center">Database management systems</h2>
+
+<div align="center">
+  <img src="Images/Icons/Databases/microsoft-sql-server.svg" class="icon" alt="Microsoft SQL Server" title="Microsoft SQL Server" height="50" width="50"> &nbsp;
+  <img src="Images/Icons/Databases/mariadb.svg" class="icon" alt="MariaDB" title="MariaDB" height="50" width="50">&nbsp;
+  <img src="Images/Icons/Databases/mongodb.svg" class="icon" alt="MongoDB" title="MongoDB" height="50" width="50">&nbsp;
+  <img src="Images/Icons/Databases/mysql.svg" class="icon" alt="MySQL" title="MySQL" height="50" width="50">
+</div>
