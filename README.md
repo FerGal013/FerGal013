@@ -70,3 +70,14 @@
   <img src="Images/Icons/Servers/postman.svg" class="icon" alt="Postman" title="Postman" height="50" width="50">&nbsp;
   <img src="Images/Icons/Servers/filezilla.svg" class="icon" alt="FileZilla" title="FileZilla" height="50" width="50">
 </div>
+
+<h2 align="center">Operating systems, distributions and tools</h2>
+
+<div align="center">
+  <img src="Images/Icons/Operating systems/windows.svg" class="icon" alt="Windows and Windows Server" title="Windows and Windows Server" height="50" width="50">&nbsp;
+  <img src="Images/Icons/Operating systems/linux.svg" class="icon" alt="Linux" title="Linux" height="50" width="50">&nbsp;
+  <img src="Images/Icons/Operating systems/debian.svg" class="icon" alt="Debian" title="Debian" height="50" width="50"> &nbsp;
+  <img src="Images/Icons/Operating systems/ubuntu.svg" class="icon" alt="Ubuntu and Ubuntu Server" title="Ubuntu and Ubuntu Server" height="50" width="50">&nbsp;
+  <img src="Images/Icons/Operating systems/virtualbox.png" class="icon" alt="VirtualBox" title="VirtualBox" height="50" width="50">&nbsp;
+  <img src="Images/Icons/Operating systems/putty.svg" class="icon" alt="PuTTY" title="PuTTY" height="50" width="50">
+</div>
