@@ -96,7 +96,7 @@
   <img src="Images/Icons/Operating systems/putty.svg" class="icon" alt="PuTTY" title="PuTTY" height="50" width="50">
 </div>
 
-<h2 align="center">Other Technologies</h2>
+<h2 align="center">Other technologies</h2>
 
 <div align="center">
   <img src="Images/Icons/Other Technologies/docker.svg" class="icon" alt="Docker" title="Docker" height="50" width="50">&nbsp;
@@ -116,5 +116,5 @@
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MarinaMadrid&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="Languages Graphic"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=FerGal013&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="Languages Graphic"/>
 </div>
