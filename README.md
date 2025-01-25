@@ -45,3 +45,14 @@
   <img src="Images/Icons/Frameworks/nodejs.svg" class="icon" alt="Node.js" title="Node.js" height="50" width="50">&nbsp;
   <img src="Images/Icons/Frameworks/react.svg" class="icon" alt="React" title="React" height="50" width="50">
 </div>
+
+<h2 align="center">Integrated development environments</h2>
+
+<div align="center">
+  <img src="Images/Icons/IDEs/visual-studio-code.svg" class="icon" alt="Visual Studio Code" title="Visual Studio Code" height="50" width="50">&nbsp;
+  <img src="Images/Icons/IDEs/visual-studio.svg" class="icon" alt="Visual Studio" title="Visual Studio" height="50" width="50"> &nbsp;
+  <img src="Images/Icons/IDEs/eclipse.svg" class="icon" alt="Eclipse" title="Eclipse" height="50" width="50">&nbsp;
+  <img src="Images/Icons/IDEs/apache-netbeans.svg" class="icon" alt="NetBeans" title="NetBeans" height="50" width="50">&nbsp;
+  <img src="Images/Icons/IDEs/pycharm.svg" class="icon" alt="PyCharm" title="PyCharm" height="50" width="50">&nbsp;
+  <img src="Images/Icons/IDEs/intellij-idea.svg" class="icon" alt="Intellij IDEA" title="Intellij IDEA" height="50" width="50">
+</div>
