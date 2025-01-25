@@ -16,10 +16,10 @@
 <div align="center">
   <img src="Images/Icons/Front End/html.svg" class="icon" alt="HTML" title="HTML" height="50" width="50">&nbsp;
   <img src="Images/Icons/Front End/css.svg" class="icon" alt="CSS" title="CSS" height="50" width="50"> &nbsp;
-  <img src="Images/Icons/Front End/sass.svg" class="icon" alt="Sass" title="Sass" height="50" width="50">
+  <img src="Images/Icons/Front End/sass.svg" class="icon" alt="Sass" title="Sass" height="50" width="50">&nbsp;
   <img src="Images/Icons/Front End/javascript.svg" class="icon" alt="JavaScript" title="JavaScript" height="50" width="50">&nbsp;
   <img src="Images/Icons/Front End/npm.svg" class="icon" alt="npm" title="npm" height="50" width="50">&nbsp;
-  <img src="Images/Icons/Front End/ajax.svg" class="icon" alt="Ajax" title="Ajax" height="50" width="50">&nbsp;
+  <img src="Images/Icons/Front End/ajax.svg" class="icon" alt="Ajax" title="Ajax" height="50" width="50">
 </div>
 
 <h2 align="center">Database management systems</h2>
@@ -29,4 +29,19 @@
   <img src="Images/Icons/Databases/mariadb.svg" class="icon" alt="MariaDB" title="MariaDB" height="50" width="50">&nbsp;
   <img src="Images/Icons/Databases/mongodb.svg" class="icon" alt="MongoDB" title="MongoDB" height="50" width="50">&nbsp;
   <img src="Images/Icons/Databases/mysql.svg" class="icon" alt="MySQL" title="MySQL" height="50" width="50">
+</div>
+
+<h2 align="center">Frameworks</h2>
+
+<div align="center">
+  <img src="Images/Icons/Frameworks/blazor.svg" class="icon" alt="Blazor" title="Blazor" height="50" width="50">&nbsp;
+  <img src="Images/Icons/Frameworks/netcore.svg" class="icon" alt=".NET" title=".NET" height="50" width="50">&nbsp;
+  <img src="Images/Icons/Frameworks/bootstrap.svg" class="icon" alt="Bootstrap" title="Bootstrap" height="50" width="50"> &nbsp;
+  <img src="Images/Icons/Frameworks/spring-boot.svg" class="icon" alt="Spring Boot" title="Spring Boot" height="50" width="50">&nbsp;
+  <img src="Images/Icons/Frameworks/django.svg" class="icon" alt="Django" title="Django" height="50" width="50">&nbsp;
+  <img src="Images/Icons/Frameworks/flask.svg" class="icon" alt="Flask" title="Flask" height="50" width="50">&nbsp;
+  <img src="Images/Icons/Frameworks/laravel.svg" class="icon" alt="Laravel" title="Laravel" height="50" width="50">&nbsp;
+  <img src="Images/Icons/Frameworks/symfony.svg" class="icon" alt="Symfony" title="Symfony" height="50" width="50">&nbsp;
+  <img src="Images/Icons/Frameworks/nodejs.svg" class="icon" alt="Node.js" title="Node.js" height="50" width="50">&nbsp;
+  <img src="Images/Icons/Frameworks/react.svg" class="icon" alt="React" title="React" height="50" width="50">
 </div>
